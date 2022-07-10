@@ -1,17 +1,17 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Javier Morales Céspedes"
-role: "Analista SIG
+author: "Hugo Apéro"
+role: "A Hugo theme"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "How to say my name" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: ArcGIS
+- name: Paris
   url: https://en.wikipedia.org/wiki/Paris
-- name: R
+- name: Pastries
   url: https://en.wikipedia.org/wiki/Pastry
-- name: Python
+- name: People
   url: https://en.wikipedia.org/wiki/People
 ---
 
