@@ -2,9 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Actualmente me desempeño como Analista Junior en el Centro de Inteligencia Territorial 
-de la Universidad Adolfo Ibáñez. Dentro de mis funciones se encuentra el trabajo con base de datos espaciales
-a través del uso de R y ArcGIS.
+description: Actualmente me desempeño como Analista Junior en el Centro de Inteligencia Territorial de la Universidad Adolfo Ibáñez. Dentro de mis funciones se encuentra el trabajo con base de datos espaciales a través del uso de R y ArcGIS.
 image_left: true
 images:
 - img/perfil.jpg
