@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hola! Es un gusto conocerte
+  Hola! Es un gusto conocerte.
 ---
 
 <!-- this is a subheadline -->
