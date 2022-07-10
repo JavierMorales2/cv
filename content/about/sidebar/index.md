@@ -4,7 +4,7 @@ author: "Javier Morales Céspedes"
 role: "Analista SIG"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: # leave blank to exclude
+audio_link_label:"no" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: ArcGIS
