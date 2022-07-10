@@ -4,15 +4,15 @@ author: "Javier Morales"
 role: "Analista SIG"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
+audio_link_label: "" # leave blank to exclude
 link_list_label: "Intereses" # bookmarks, elsewhere, etc.
 link_list:
 - name: ArcGIS
-  url: https://en.wikipedia.org/wiki/Paris
+  url: https://www.arcgis.com/index.html
 - name: R
-  url: https://en.wikipedia.org/wiki/Pastry
+  url: https://www.r-project.org/
 - name: Python
-  url: https://en.wikipedia.org/wiki/People
+  url: https://www.python.org/
 ---
 
 ** index doesn't contain a body, just front matter above.
