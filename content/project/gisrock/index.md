@@ -5,9 +5,7 @@ categories:
 
 date: "2022-06-01"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: Proyecto que surge como una forma de mejorar la representación y conocimiento espacial.
 layout: single
 subtitle: Este proyecto surge con la idea de publicar 1 mapa al mes.
 tags:
