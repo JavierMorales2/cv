@@ -2,7 +2,7 @@
 author: Javier Morales
 categories:
 - CV
-date: "2022-01-12"
+date: "2022-07-20"
 date_end: "2022-01-13"
 draft: false
 event_url: 
@@ -16,7 +16,7 @@ links:
   url: https://bakeoff.netlify.com/
   
 show_post_time: false
-subtitle: Testing
+subtitle: 
 title: Curriculum Vitae
 ---
 

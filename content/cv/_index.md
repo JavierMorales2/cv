@@ -9,9 +9,9 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: Ver Archivos
-    text_link_url: /cv/
+    text_link_url: 
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  
 layout: list
 show_author_byline: false
 show_button_links: true
