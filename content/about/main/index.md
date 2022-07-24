@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  He estado explorando el mundo de la programación, principalmente a través de la herramiento [R](https://www.r-project.org/about.html) para optimizar mi flujo de trabajo con datos. Además de una introducción con Python en su relación con ArcGIS (arcpy).
+  He estado explorando el mundo de la programación, principalmente a través de la herramiento [R](https://www.r-project.org/about.html) para optimizar mi flujo de trabajo con datos. Principalmente a través de cursos en DataCamp (Intermediate R).
 
  
 show_outro: false
