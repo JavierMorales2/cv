@@ -11,8 +11,6 @@ link_list:
   url: https://www.arcgis.com/index.html
 - name: R
   url: https://www.r-project.org/
-- name: Python
-  url: https://www.python.org/
 ---
 
 ** index doesn't contain a body, just front matter above.
