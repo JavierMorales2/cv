@@ -9,7 +9,7 @@ headline: |
 <!-- this is a subheadline -->
 Gracias por pasar!
 
-Soy Geógrafo con interés en el análisis de datos espaciales y el Data Science. Experiencia en herramientas como ArcGIS Pro, ArcGIS Online, R y Office. Principales habilidades relacionadas con el trabajo en gabinete, además del constante estudio de nuevas tecnologías aplicables al espacio.
+Soy Geógrafo con interés en el análisis de datos espaciales. Experiencia en herramientas como ArcGIS Pro, ArcGIS Online, R y Office. Principales habilidades relacionadas con el trabajo en gabinete, además del constante estudio de nuevas tecnologías aplicables al espacio.
 
   <i class="fas fa-book-open"></i> Diplomado en Gestión y Evidencia Territorial  &#8729;
 Universidad Adolfo Ibáñez  &#8729;  2022
