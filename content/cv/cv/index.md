@@ -13,7 +13,7 @@ links:
 - icon: file
   icon_pack: fas
   name: pdf
-  url: [https://bakeoff.netlify.com/](https://drive.google.com/file/d/1Y_NGIwGh6P41RMH_WH9kgxUwfzQT3qzN/view?usp=sharing)
+  url: [https://drive.google.com/file/d/1Y_NGIwGh6P41RMH_WH9kgxUwfzQT3qzN/view?usp=sharing]
   
 show_post_time: false
 subtitle: 
