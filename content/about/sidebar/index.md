@@ -12,7 +12,7 @@ link_list:
 - name: R
   url: https://www.r-project.org/
 - name: Formula 1
-  url: https://twitter.com/f1/status/1470039368467427328?lang=gl
+  url: https://pbs.twimg.com/media/FGag_E7WQAIEdQ_?format=jpg&name=large
 ---
 
 ** index doesn't contain a body, just front matter above.
